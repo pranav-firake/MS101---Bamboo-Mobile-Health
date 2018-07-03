@@ -1,0 +1,62 @@
+{
+    "activities": [
+                   {
+                   "image": "walking",
+                   "name": "Walking",
+                   "units": "steps",
+                   "per": "week",
+                   "code": "WLK"
+                   },
+                   {
+                   "image": "running",
+                   "name": "Running-Elliptical",
+                   "units": "miles",
+                   "per": "week",
+                   "code": "RNE"
+                   },
+                   {
+                   "image": "swimming",
+                   "name": "Swimming",
+                   "units": "miles",
+                   "per": "week",
+                   "code": "SWM"
+                   },
+                   {
+                   "image": "physical-therapy",
+                   "name": "Physical Therapy @ PT Clinic",
+                   "units": "sessions",
+                   "per": "week",
+                   "code": "PTC"
+                   },
+                   {
+                   "image": "physical-therapy",
+                   "name": "Physical Therapy @ Home Session",
+                   "units": "sessions",
+                   "per": "week",
+                   "code": "PTH"
+                   },
+                   {
+                   "image": "pilates",
+                   "name": "Yoga-Pilates",
+                   "units": "minutes",
+                   "per": "week",
+                   "code": "YGP"
+                   }
+                ],
+    "exercises": [
+                  {
+                  "image": "dumbbell",
+                  "name": "Strength Training",
+                  "units": "minutes",
+                  "per": "week",
+                  "code": "STR"
+                  },
+                  {
+                  "image": "cycling",
+                  "name": "Cycling-Hand Cycling",
+                  "units": "miles",
+                  "per": "week",
+                  "code": "CYC"
+                  }
+                ]
+}
